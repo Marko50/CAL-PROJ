@@ -1,0 +1,16 @@
+0;100;100;Porto
+1;200;100;Lisboa
+2;300;100;Madrid
+3;400;100;Paris
+4;100;200;Madeira
+5;200;200;Acores
+6;300;200;Bruxelas
+7;400;200;Frankfurt
+8;100;300;Berlim
+9;200;300;Amsterdao
+10;300;300;Londres
+11;400;300;Nova Iorque
+12;100;400;Varsovia
+13;200;400;Moscovo
+14;300;400;Miami
+15;400;400;Rio de Janeiro

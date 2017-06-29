@@ -1,0 +1,80 @@
+Sheraton;20;5;200;5;Lisboa
+NovoHotel;10;4;70;4;Lisboa
+Ibis;15;3;40;2;Lisboa
+StarInn;20;5;100;4;Lisboa
+Sana;20;6;60;3;Lisboa
+Sheraton;20;5;200;5;Porto
+NovoHotel;10;4;70;4;Porto
+Ibis;15;3;40;2;Porto
+StarInn;20;5;100;4;Porto
+Sana;20;6;60;3;Porto
+Sheraton;20;5;200;5;Madrid
+NovoHotel;10;4;70;4;Madrid
+Ibis;15;3;40;2;Madrid
+StarInn;20;5;100;4;Madrid
+Sana;20;6;60;3;Madrid
+Sheraton;20;5;200;5;Paris
+NovoHotel;10;4;70;4;Paris
+Ibis;15;3;40;2;Paris
+StarInn;20;5;100;4;Paris
+Sana;20;6;60;3;Paris
+Sheraton;20;5;200;5;Madeira
+NovoHotel;10;4;70;4;Madeira
+Ibis;15;3;40;2;Madeira
+StarInn;20;5;100;4;Madeira
+Sana;20;6;60;3;Madeira
+Sheraton;20;5;200;5;Acores
+NovoHotel;10;4;70;4;Acores
+Ibis;15;3;40;2;Acores
+StarInn;20;5;100;4;Acores
+Sana;20;6;60;3;Acores
+Sheraton;20;5;200;5;Bruxelas
+NovoHotel;10;4;70;4;Bruxelas
+Ibis;15;3;40;2;Bruxelas
+StarInn;20;5;100;4;Bruxelas
+Sana;20;6;60;3;Bruxelas
+Sheraton;20;5;200;5;Frankfurt
+NovoHotel;10;4;70;4;Frankfurt
+Ibis;15;3;40;2;Frankfurt
+StarInn;20;5;100;4;Frankfurt
+Sana;20;6;60;3;Frankfurt
+Sheraton;20;5;200;5;Berlim
+NovoHotel;10;4;70;4;Berlim
+Ibis;15;3;40;2;Berlim
+StarInn;20;5;100;4;Berlim
+Sana;20;6;60;3;Berlim
+Sheraton;20;5;200;5;Amsterdao
+NovoHotel;10;4;70;4;Amsterdao
+Ibis;15;3;40;2;Amsterdao
+StarInn;20;5;100;4;Amsterdao
+Sana;20;6;60;3;Amsterdao
+Sheraton;20;5;200;5;Londres
+NovoHotel;10;4;70;4;Londres
+Ibis;15;3;40;2;Londres
+StarInn;20;5;100;4;Londres
+Sana;20;6;60;3;Londres
+Sheraton;20;5;200;5;Nova Iorque
+NovoHotel;10;4;70;4;Nova Iorque
+Ibis;15;3;40;2;Nova Iorque
+StarInn;20;5;100;4;Nova Iorque
+Sana;20;6;60;3;Nova Iorque
+Sheraton;20;5;200;5;Varsovia
+NovoHotel;10;4;70;4;Varsovia
+Ibis;15;3;40;2;Varsovia
+StarInn;20;5;100;4;Varsovia
+Sana;20;6;60;3;Varsovia
+Sheraton;20;5;200;5;Moscovo
+NovoHotel;10;4;70;4;Moscovo
+Ibis;15;3;40;2;Moscovo
+StarInn;20;5;100;4;Moscovo
+Sana;20;6;60;3;Moscovo
+Sheraton;20;5;200;5;Miami
+NovoHotel;10;4;70;4;Miami
+Ibis;15;3;40;2;Miami
+StarInn;20;5;100;4;Miami
+Sana;20;6;60;3;Miami
+Sheraton;20;5;200;5;Rio de Janeiro
+NovoHotel;10;4;70;4;Rio de Janeiro
+Ibis;15;3;40;2;Rio de Janeiro
+StarInn;20;5;100;4;Rio de Janeiro
+Sana;20;6;60;3;Rio de Janeiro

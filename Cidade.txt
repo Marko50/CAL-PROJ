@@ -1,0 +1,16 @@
+Porto;Verao
+Lisboa;Verao
+Madrid;Outono
+Paris;Primavera
+Madeira;Verao
+Acores;Verao
+Bruxelas;Inverno
+Frankfurt;Inverno
+Berlim;Verao
+Amsterdao;Inverno
+Londres;Verao
+Nova Iorque;Inverno
+Varsovia;Inverno
+Moscovo;Inverno
+Miami;Verao
+Rio de Janeiro;Verao

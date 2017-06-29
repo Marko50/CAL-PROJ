@@ -1,0 +1,80 @@
+Terreiro do Paco;Lisboa
+Mosteiro dos Jeronimos;Lisboa
+Estadio da Luz;Lisboa
+Panteao Nacional;Lisboa
+Palacio da Regaleira;Lisboa
+Torre dos Clerigos;Porto
+Faculdade de Engenharia da Universidade do Porto;Porto
+Palacio da Bolsa;Porto
+Casa da Musica;Porto
+Mosteiro da Serra do Pilar;Porto
+Museu do Prado;Madrid
+Las Ventas;Madrid
+Praca Maior;Madrid
+Porta do Sol;Madrid
+Estadio Santiago Bernabeu;Madrid
+Torre Eiffel;Paris
+NotreDame;Paris
+Arco do Triunfo;Paris
+Les Invalides;Paris
+Palacio de Versalhes;Paris
+Forte Sao Joao Baptista;Madeira
+Praia da Calheta;Madeira
+Igreja de Machico;Madeira
+Jardim Municipal Leite Monteiro;Madeira
+Se do Funchal;Madeira
+Tremas da Ferraria;Acores
+Caldeiras de Monte Escuro;Acores
+Capela de Nossa Senhora das Vitorias;Acores
+Igreja de Sao Miguel Arcanjo;Acores
+Lagoa das Sete Cidades;Acores
+Atomium;Bruxelas
+Catedral Sao Mitchel;Bruxelas
+Palacio Real;Bruxelas
+Parlamento Europeu;Bruxelas
+Porta de Hal;Bruxelas
+Eiserner Steg;Frankfurt
+Main Tower;Frankfurt
+Catedral Imperial;Frankfurt
+Goethestrasse;Frankfurt
+Schwenkgrill;Frankfurt
+Muro de Berlim;Berlim
+Reichstag;Berlim
+Ilha dos Museus;Berlim
+Potsdamer Platz;Berlim
+Porta de Bradembrugo;Berlim
+Canais;Amsterdao
+Red Light District;Amsterdao
+Van Gogh Museum;Amsterdao
+Casa de Anne Frank;Amsterdao
+Vondelpark;Amsterdao
+London Eye;Londres
+Palacio de Buckingham;Londres
+Abadia de Westminster;Londres
+Big Ben;Londres
+Piccadilly Circus;Londres
+Central Park;Nova Iorque
+Times Square;Nova Iorque
+Trump Tower;Nova Iorque
+Broadway;Nova Iorque
+Empire State Building;Nova Iorque
+Museu da Revolta de Varsovia;Varsovia
+Monumento de Chopin;Varsovia
+Old Town;Varsovia
+Jardins Saxon;Varsovia
+Parque Lazienki;Varsovia
+Kremlin;Moscovo
+Praca Vermelha;Moscovo
+Catedral de Sao Basilico;Moscovo
+Mausoleu de Lênin;Moscovo
+Parque Gorki;Moscovo
+Design District;Miami
+Cubaocho;Miami
+Wynwood;Miami
+Deering Estate;Miami
+Tropical Park;Miami
+Cristo Redentor;Rio de Janeiro
+Museu do Amanha;Rio de Janeiro
+Parque Lage;Rio de Janeiro
+Pao de Acucar;Rio de Janeiro
+Morro da Urca;Rio de Janeiro
